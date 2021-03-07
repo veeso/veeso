@@ -1,16 +1,19 @@
-### Hi there 👋
+### Christian Visintin
 
-<!--
-**veeso/veeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.visintin1997@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-visintin/)
 
-Here are some ideas to get you started:
+Hey there, I'm Christian 👋🏻
+I'm a 23 years old software engineer living in Udine, Italy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✨ About me
+
+- I'm a software engineer at Solari di Udine, where I work mainly on embedded devices
+- Spare-time open source developer
+- My favourite programming language is **Rust**
+
+#### 🎯 What I'm currently doing
+
+- Studying Functional programming languages (Elixir, Elm)
+- Working on **[termscp](https://github.com/veeso/termscp)**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
