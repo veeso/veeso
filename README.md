@@ -13,7 +13,6 @@ I'm a 23 years old software engineer living in Udine, Italy
 
 #### 🎯 What I'm currently doing
 
-- Studying Functional programming languages (Elixir, Elm)
 - Working on **[termscp](https://github.com/veeso/termscp)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
