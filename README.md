@@ -7,7 +7,7 @@ I'm a 23 years old software engineer living in Udine, Italy
 
 #### ✨ About me
 
-- I'm a software engineer at Solari di Udine, where I work mainly on embedded devices
+- I'm a software engineer at [Prima.it](https://github.com/primait) where I work as a full-stack developer
 - Spare-time open source developer
 - My favourite programming language is **Rust**
 
