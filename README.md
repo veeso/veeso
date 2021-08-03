@@ -14,6 +14,7 @@ I'm a 24 years old software engineer living in Udine, Italy
 #### 🎯 What I'm currently doing
 
 - Working on **[termscp](https://github.com/veeso/termscp)**
+- Working on a chess game with tui-rs
 - Working on a Rust native SMB client library
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
