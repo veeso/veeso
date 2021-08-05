@@ -14,6 +14,7 @@ I'm a 24 years old software engineer living in Udine, Italy
 #### 🎯 What I'm currently doing
 
 - Working on **[termscp](https://github.com/veeso/termscp)**
+- Improving [chess-engine](https://github.com/adam-mcdaniel/chess-engine) library
 - Working on a chess game with tui-rs
 - Working on a Rust native SMB client library
 
