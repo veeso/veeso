@@ -14,8 +14,7 @@ I'm a 24 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Working on **[termscp](https://github.com/veeso/termscp)**
-- Working on the new API for **[tui-realm](https://github.com/veeso/tui-realm)**
-- Working on a Rust native SMB client library
+- Working on [remotefs-rs](https://github.com/veeso/remotefs-rs)**
 
 [Read more](https://veeso.github.io/)
 
