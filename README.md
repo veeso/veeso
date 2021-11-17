@@ -14,7 +14,7 @@ I'm a 24 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Working on **[termscp](https://github.com/veeso/termscp)**
-- Working on [remotefs-rs](https://github.com/veeso/remotefs-rs)**
+- Working on [remotefs-rs](https://github.com/veeso/remotefs-rs)
 
 [Read more](https://veeso.github.io/)
 
