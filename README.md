@@ -13,7 +13,8 @@ I'm a 24 years old software engineer living in Udine, Italy
 
 #### 🎯 &nbsp; What I'm currently doing
 
-I'm just taking a break from my open source projects
+- Working on [termscp](https://github.com/veeso/termscp)
+- Planning an update for [tui-realm](https://github.com/veeso/tui-realm)
 
 [Read more](https://veeso.github.io/)
 
