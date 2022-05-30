@@ -3,7 +3,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.visintin1997@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-visintin/)
 
 Hey there, I'm Christian 👋🏻
-I'm a 24 years old software engineer living in Udine, Italy
+I'm a 25 years old software engineer living in Udine, Italy
 
 #### ✨ &nbsp; About me
 
