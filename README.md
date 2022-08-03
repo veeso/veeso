@@ -18,3 +18,8 @@ I'm a 25 years old software engineer living in Udine, Italy
 [Read more](https://veeso.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> Please, if you contact me, introduce yourself, especially on telegram, otherwise I may thinkn you're just another scammer 😅
+> I may be slow to respond, due to the high quantity on issue assigned to me and the little time I have to work on them 😓
