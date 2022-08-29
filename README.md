@@ -22,6 +22,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 - I'm a software engineer at [Prima.it](https://www.prima.it/) where I work as full-stack developer
 - Spare-time open source developer
 - My favourite programming language is **Rust**
+- Sometimes I make cosplays
 
 #### 🎯 &nbsp; What I'm currently doing
 
