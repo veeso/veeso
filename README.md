@@ -27,7 +27,6 @@ I'm a 25 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Studying blockchains and smart contracts
-- Learning Go
 
 [Read more](https://veeso.github.io/)
 
