@@ -18,6 +18,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 #### ✨ &nbsp; About me
 
 - I'm a software engineer at [Prima.it](https://www.prima.it/) where I work as full-stack developer
+- Rustacean 🦀
 - Spare-time open source developer
 - My favourite programming language is **Rust**
 - Sometimes I make cosplays
@@ -25,6 +26,8 @@ I'm a 25 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Studying blockchains and smart contracts
+- Working on a NFT
+- Maintaining my main open source projects
 
 [Read more](https://veeso.github.io/)
 
