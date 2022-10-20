@@ -29,7 +29,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 
 - Studying blockchains and smart contracts
 - Working on [bitpanda730](https://github.com/veeso/bitpanda730)
-- Working on [donamze(https://github.com/veeso/donmaze)
+- Working on [donmaze](https://github.com/veeso/donmaze)
 - Working on a NFT
 - Maintaining my main open source projects
 
