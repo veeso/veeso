@@ -31,9 +31,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Studying blockchains and smart contracts
-- Working on [bitpanda730](https://github.com/veeso/bitpanda730)
-- Working on [donmaze](https://github.com/veeso/donmaze)
-- Studying Ethereum / Solana
+- Working on the [Cryptopapies](https://github.com/cryptopapies) project
 - Maintaining my main open source projects
 
 [Read more](https://veeso.github.io/)
