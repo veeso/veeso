@@ -33,7 +33,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 #### 🎯 &nbsp; What I'm currently doing
 
 - Studying blockchains and smart contracts
-- Working on the [Cryptopapies](https://github.com/cryptopapies) project
+- Studying WASM with Rust
 - Maintaining my main open source projects
 
 [Read more](https://veeso.github.io/)
