@@ -1,4 +1,4 @@
-### Christian Visintin
+# Christian Visintin
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/veeso)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.visintin1997@gmail.com)
@@ -23,7 +23,7 @@
 Hey there, I'm Christian 👋🏻
 I'm a 25 years old software engineer living in Udine, Italy
 
-#### ✨ &nbsp; About me
+## ✨ &nbsp; About me
 
 - I'm a software engineer at [Prima.it](https://www.prima.it/) where I work as backend software engineer
 - Rustacean 🦀
@@ -31,7 +31,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 - My favourite programming language is **Rust**
 - Sometimes I make cosplays
 
-#### 🎯 &nbsp; What I'm currently doing
+## 🎯 &nbsp; What I'm currently doing
 
 - Studying blockchains and smart contracts
 - Studying WASM with Rust
