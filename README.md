@@ -35,6 +35,7 @@ I'm a 25 years old software engineer living in Udine, Italy
 ## 🎯 &nbsp; What I'm currently doing
 
 - Maintaining my main open source projects
+- Working on [bitpanda730](https://github.com/veeso/bitpanda730)
 
 [Read more](https://veeso.github.io/)
 
