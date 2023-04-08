@@ -3,7 +3,8 @@
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/veeso)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.visintin@veeso.dev)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/veeso_dev)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veeso97)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veeso_dev)
+[![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/BQGR4AO6YI7GE1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-visintin/)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veeso.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christian.visintin1997)
@@ -22,12 +23,12 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 Hey there, I'm Christian 👋🏻
-I'm a 25 years old software engineer living in Udine, Italy
+I'm a software engineer living in Udine, Italy
 
 ## ✨ &nbsp; About me
 
 - I'm a software engineer at [Prima.it](https://www.prima.it/) where I work as backend software engineer
-- Freelance softeware engineer - [veeso.dev](https://veeso.dev)
+- Freelance software engineer - [veeso.dev](https://veeso.dev)
 - Rustacean 🦀
 - Spare-time open source developer
 - My favourite programming language is **Rust**
@@ -37,8 +38,11 @@ I'm a 25 years old software engineer living in Udine, Italy
 
 - Maintaining my main open source projects
 - Working on [bitpanda730](https://github.com/veeso/bitpanda730)
+- Working as website designer for private projects
 
-[Read more](https://veeso.github.io/)
+[Read more](https://veeso.dev/)
+
+📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/veeso-dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
