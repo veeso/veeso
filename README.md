@@ -27,7 +27,7 @@ I'm a software engineer living in Udine, Italy
 
 ## ✨ &nbsp; About me
 
-- I'm a software engineer at [Prima.it](https://www.prima.it/) where I work as backend software engineer
+- I'm a software engineer at [Finity technologies](https://github.com/infinity-swap) where I work as Rust software engineer
 - Freelance software engineer - [veeso.dev](https://veeso.dev)
 - Rustacean 🦀
 - Spare-time open source developer
