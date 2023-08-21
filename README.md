@@ -28,19 +28,18 @@ I'm a software engineer living in Udine, Italy
 - I'm a software engineer at [Finity technologies](https://github.com/infinity-swap) where I work as Rust software engineer
 - Freelance software engineer - [veeso.dev](https://veeso.dev)
 - Rustacean 🦀
-- Spare-time open source developer
-- My favourite programming language is **Rust**
+- Spare-time open-source developer
+- My favorite programming language is **Rust**
 - Sometimes I make cosplays
 
 ## 🎯 &nbsp; What I'm currently doing
 
-- Maintaining my main open source projects
-- Working on [bitpanda730](https://github.com/veeso/bitpanda730)
+- Maintaining my main open-source projects
 - Working as website designer for private projects
 
 [Read more](https://veeso.dev/)
 
-📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/veeso-dev)
+📆 Do you have an idea you want to talk about face-to-face? [Book me up!](https://calendly.com/veeso-dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
