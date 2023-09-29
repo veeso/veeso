@@ -25,8 +25,8 @@ I'm a software engineer living in Udine, Italy
 
 ## ✨ &nbsp; About me
 
-- I'm a software engineer at [Finity technologies](https://github.com/infinity-swap) where I work as Rust software engineer
 - Freelance software engineer - [veeso.dev](https://veeso.dev)
+  - Developing [Bitfinity network](https://github.com/bitfinity-network)
 - Rustacean 🦀
 - Spare-time open-source developer
 - My favorite programming language is **Rust**
@@ -35,7 +35,7 @@ I'm a software engineer living in Udine, Italy
 ## 🎯 &nbsp; What I'm currently doing
 
 - Maintaining my main open-source projects
-- Working as website designer for private projects
+- Working as a website designer for private projects
 
 [Read more](https://veeso.dev/)
 
