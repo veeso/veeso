@@ -31,7 +31,8 @@ I'm a software engineer living in Udine, Italy
 
 ## 🎯 &nbsp; What I'm currently doing
 
-- Maintaining my main open-source projects
+- Developing the [Bitfinity EVM](https://bitfinity.network)
+- Developing [Satoshispay](https://satoshispay.app)
 - Working as a website designer for private projects
 
 [Read more](https://veeso.dev/)
