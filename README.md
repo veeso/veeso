@@ -24,7 +24,6 @@ I'm a software engineer living in Udine, Italy
 ## ✨ &nbsp; About me
 
 - Freelance software engineer - [veeso.dev](https://veeso.dev)
-  - Developing [Bitfinity network](https://github.com/bitfinity-network)
 - Rustacean 🦀
 - Spare-time open-source developer
 - My favorite programming language is **Rust**
@@ -34,7 +33,7 @@ I'm a software engineer living in Udine, Italy
 
 - Developing the [Bitfinity EVM](https://bitfinity.network)
 - Developing [Satoshispay](https://satoshispay.app)
-- Working as a website designer for private projects
+- Probably working on some other web3 project
 
 [Read more](https://veeso.dev/)
 
