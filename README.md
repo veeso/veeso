@@ -32,9 +32,8 @@ I'm a software engineer living in Udine, Italy
 ## 🎯 &nbsp; What I'm currently doing
 
 - Developing the [Bitfinity EVM](https://bitfinity.network)
-- Developing [EKOKEToken](https://dapp.ekoketoken.com)
 - Developing the Sauce at [P9](https://www.p9nodes.io/)
-- Probably working on some other web3 project
+- Trying to find the time for my open source projects and for my blog
 
 [Read more](https://veeso.dev/)
 
