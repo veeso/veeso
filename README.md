@@ -28,7 +28,7 @@ I'm a software engineer living in Udine, Italy
 - Spare-time open-source developer
 - Author of [termscp](https://github.com/veeso/termscp)
 - Author of [remotefs-rs](https://github.com/remotefs-rs/remotefs-rs)
-- Author of the main Rust FTP library [termscp](https://github.com/veeso/suppaftp)
+- Author of the main Rust FTP library [suppaftp](https://github.com/veeso/suppaftp)
 
 ## 🎯 &nbsp; What I'm currently doing
 
