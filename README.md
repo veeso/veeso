@@ -26,8 +26,9 @@ I'm a software engineer living in Udine, Italy
 - Freelance software engineer - [veeso.dev](https://veeso.dev)
 - Rustacean 🦀
 - Spare-time open-source developer
-- My favorite programming language is **Rust**
-- Sometimes I make cosplays
+- Author of [termscp](https://github.com/veeso/termscp)
+- Author of [remotefs-rs](https://github.com/remotefs-rs/remotefs-rs)
+- Author of the main Rust FTP library [termscp](https://github.com/veeso/suppaftp)
 
 ## 🎯 &nbsp; What I'm currently doing
 
