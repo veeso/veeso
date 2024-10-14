@@ -36,11 +36,9 @@ I'm a software engineer living in Udine, Italy
 - Developing the Sauce at [P9](https://www.p9nodes.io/)
 - Trying to find the time for my open source projects and for my blog
 
-[Read more](https://veeso.dev/)
+[Read more](https://veeso.me/)
 
 📆 Do you have an idea you want to talk about face-to-face? [Book me up!](https://calendly.com/veeso-dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
