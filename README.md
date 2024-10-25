@@ -1,4 +1,4 @@
-# Christian Visintin
+# Christian veeso Visintin
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/veeso)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.visintin@veeso.dev)
