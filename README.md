@@ -23,7 +23,7 @@ I'm a software engineer living in Udine, Italy
 
 ## ✨ &nbsp; About me
 
-- Freelance software engineer - [veeso.dev](https://veeso.dev)
+- Freelance software engineer - [veeso.me](https://veeso.me)
 - Rustacean 🦀
 - Spare-time open-source developer
 - Author of [termscp](https://github.com/veeso/termscp)
