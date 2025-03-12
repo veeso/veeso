@@ -7,7 +7,7 @@
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/BQGR4AO6YI7GE1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-visintin/)
 [![website](https://img.shields.io/badge/website-31363a?style=for-the-badge&logo=About.me&logoColor=white)](https://veeso.me)
-[![blog](https://img.shields.io/badge/blog-31363a?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.veeso.dev)
+[![blog](https://img.shields.io/badge/blog-31363a?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.veeso.dev)
 
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/veeso)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/chrisintin)
