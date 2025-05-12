@@ -32,9 +32,9 @@ I'm a software engineer living in Udine, Italy
 
 ## 🎯 &nbsp; What I'm currently doing
 
-- Developing the [Bitfinity EVM](https://bitfinity.network)
+- Developing [ic-docutrack](https://github.com/icp-hub-itti/ic-docutrack)
 - Developing the Sauce at [P9](https://www.p9nodes.io/)
-- Trying to find the time for my open source projects and for my blog
+- Preparing my project for RustLab 2025
 
 [Read more](https://veeso.me/)
 
