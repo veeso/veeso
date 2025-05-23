@@ -32,7 +32,7 @@ I'm a software engineer living in Udine, Italy
 
 ## 🎯 &nbsp; What I'm currently doing
 
-- Developing [ic-docutrack](https://github.com/icp-hub-itti/ic-docutrack)
+- Developing [ic-docutrack](https://github.com/icp-hub-it/ic-docutrack)
 - Developing the Sauce at [P9](https://www.p9nodes.io/)
 - Preparing my project for RustLab 2025
 
