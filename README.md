@@ -23,7 +23,7 @@ I'm a software engineer living in Udine, Italy
 
 ## ✨ &nbsp; About me
 
-- Freelance software engineer - [veeso.me](https://veeso.me)
+- Freelance Software Engineer - [veeso.me](https://veeso.me)
 - Rustacean 🦀
 - Spare-time open-source developer
 - Author of [termscp](https://github.com/veeso/termscp)
@@ -33,12 +33,13 @@ I'm a software engineer living in Udine, Italy
 ## 🎯 &nbsp; What I'm currently doing
 
 - Developing [ic-docutrack](https://github.com/icp-hub-it/ic-docutrack)
-- Developing the Sauce at [P9](https://www.p9nodes.io/)
-- Preparing my project for RustLab 2025
+- Working at [Holochain](https://github.com/holochain)
+- Tinkering on some open-source project
+- Preparing my project for [RustLab 2025](https://rustlab.it/talks/we-can-t-live-without-async-and-that-s-a-problem)
 
 [Read more](https://veeso.me/)
 
-📆 Do you have an idea you want to talk about face-to-face? [Book me up!](https://calendly.com/veeso-dev)
+📆 Do you have an idea you'd like to discuss in person? [Book me up!](https://calendly.com/veeso-dev)
 
 ---
 
