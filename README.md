@@ -33,10 +33,9 @@ I'm a software engineer living in Udine, Italy
 
 ## 🎯 &nbsp; What I'm currently doing
 
-- Developing [ic-docutrack](https://github.com/icp-hub-it/ic-docutrack)
+- Developing [BiangBiang Hanzi](https://github.com/veeso/BiangBiang-Hanzi)
 - Working at [Holochain](https://github.com/holochain)
 - Tinkering on some open-source project
-- Preparing my project for [RustLab 2025](https://rustlab.it/talks/we-can-t-live-without-async-and-that-s-a-problem)
 
 [Read more](https://veeso.me/)
 
