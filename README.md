@@ -21,6 +21,7 @@ I'm a software engineer living in Udine, Italy
 
 - Freelance Software Engineer - [veeso.me](https://veeso.me)
 - Rustacean 🦀
+- Gleamlin ⭐
 - Spare-time open-source developer
 - Author of [termscp](https://github.com/veeso/termscp)
 - Author of [remotefs-rs](https://github.com/remotefs-rs/remotefs-rs)
