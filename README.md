@@ -24,20 +24,6 @@ I'm a software engineer living in Udine, Italy
 - Gleamlin ⭐
 - Spare-time open-source developer
 - Author of [termscp](https://github.com/veeso/termscp)
-- Author of [remotefs-rs](https://github.com/remotefs-rs/remotefs-rs)
 - Author of the main Rust FTP library [suppaftp](https://github.com/veeso/suppaftp)
-
-## 🎯 &nbsp; What I'm currently doing
-
-- Developing [BiangBiang Hanzi](https://github.com/veeso/BiangBiang-Hanzi)
-- Working at [Holochain](https://github.com/holochain)
-- Tinkering on some open-source project
-
-[Read more](https://veeso.me/)
-
-📆 Do you have an idea you'd like to discuss in person? [Book me up!](https://calendly.com/veeso-dev)
-
----
-
-*Please, if you contact me, introduce yourself, especially on telegram, otherwise I may think you're just another scammer 😅*  
-*I may be slow to respond, due to the high quantity of issues assigned to me and the little time I have to work on them 😓*
+- Author of [blogatto](https://blogat.to)
+- Blogger [https://blog.veeso.dev]
