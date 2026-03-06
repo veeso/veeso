@@ -26,4 +26,4 @@ I'm a software engineer living in Udine, Italy
 - Author of [termscp](https://github.com/veeso/termscp)
 - Author of the main Rust FTP library [suppaftp](https://github.com/veeso/suppaftp)
 - Author of [blogatto](https://blogat.to)
-- Blogger [https://blog.veeso.dev]
+- [Blogger](https://blog.veeso.dev)
