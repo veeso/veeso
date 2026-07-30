@@ -6,7 +6,6 @@
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/BQGR4AO6YI7GE1)
 [![book a call with me](https://img.shields.io/badge/book%20a%20call-6D4AFF?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.proton.me/bookings#Emorq90sfYBmeO1ng49zwgWxzhhh0z_mKKCcGsXVHeM=)
 
-[![codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/veeso)
 [![x.com](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/veeso_dev)
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://hachyderm.io/@veeso_dev)
 [![website](https://img.shields.io/badge/website-31363a?style=for-the-badge&logo=About.me&logoColor=white)](https://veeso.me)
