@@ -8,7 +8,7 @@
 
 [![x.com](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/veeso_dev)
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://hachyderm.io/@veeso_dev)
-[![website](https://img.shields.io/badge/website-31363a?style=for-the-badge&logo=About.me&logoColor=white)](https://veeso.me)
+[![website](https://img.shields.io/badge/website-31363a?style=for-the-badge&logo=About.me&logoColor=white)](https://veeso.dev)
 [![blog](https://img.shields.io/badge/blog-31363a?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.veeso.dev)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-visintin/)
 
