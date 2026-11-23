@@ -2,7 +2,6 @@
 
 [![email](https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:christian.visintin@veeso.dev)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cvisintin)
-[![signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/U-7Zf8jH3gWxoW6H9a8hnEoG04FkUNd2Eg33PSicNXZZgoew2JRCD4oU2Wp8aPyW)
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/BQGR4AO6YI7GE1)
 [![book a call with me](https://img.shields.io/badge/book%20a%20call-6D4AFF?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.proton.me/bookings#Emorq90sfYBmeO1ng49zwgWxzhhh0z_mKKCcGsXVHeM=)
 
